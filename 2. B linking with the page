@@ -1,0 +1,17 @@
+B: 
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>linking within the same file</title> 
+</head> 
+<body> 
+<a name="top">top region</a> 
+<br> 
+<a href="#bottom">go to bottom</a> 
+<!—add large texual content--> 
+<a name="bottom">bottom region</a> 
+<br> 
+<a href="#top">go to top</a> 
+</body> 
+</html> 
+
