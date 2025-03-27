@@ -1,0 +1,39 @@
+
+Factorial: 
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Factorial Demo</title> 
+<script language="javascript"> 
+var x=parseInt(prompt("Enter a number","")); 
+var fact=1,i; 
+for(i=1;i<=x;i++) 
+fact*=i; 
+document.write("<h1>Factorial of "+x+" is : "+fact+"</h1>"); 
+</script> 
+</head> 
+<body> 
+</body> 
+</html> 
+Fibonacci: 
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Fibonacci series Demo</title> 
+<script language="javascript"> 
+var a=0,b=1,c,n,i; 
+n=parseInt(prompt("Enter limit for fibonacci series:","")); 
+document.write("<h2> Fibonacci series: </h2><br>"); 
+document.write(a+" "+b+" "); 
+for(i=2;i<n;i++) 
+{ 
+c=a+b; 
+document.write(c+" "); 
+a=b; 
+b=c; 
+} 
+</script> 
+</head> 
+<body> 
+</body> 
+</html> 
