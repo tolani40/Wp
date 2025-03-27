@@ -1,0 +1,34 @@
+One.html 
+<!DOCTYPE html> 
+<html> 
+<haed> 
+<title>One</title> 
+</head> 
+<body> 
+<a href="two.html">Go to Two.html</a> 
+</body> 
+</html> 
+
+
+Two.html 
+<!DOCTYPE html> 
+<hrtml> 
+<head> 
+<title>Two</title> 
+</head> 
+<body> 
+Welcome to two.html. 
+<br> 
+<a href="three.html">Go to three.html</a> 
+</body> 
+</html> 
+Three.html 
+<!DOCTYPE html> 
+<hrtml> 
+<head> 
+<title>Three</title> 
+</head> 
+<body> 
+Welcome to Hyperlinks. 
+</body> 
+</html> 
