@@ -1,0 +1,34 @@
+
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Semantic Example</title> 
+</head> 
+<body> 
+<header> 
+<img src="garden.jpg" style="float:left; height:80px;width:60"> 
+<h1>The Garden Company</h1> 
+<h5 style="clear:left">Helping your garden grow</h5> 
+</header> 
+<nav> 
+<hr> 
+<a href="one.html"><img src="home.jpg"></a> 
+<a href="lists.html"><img src="about.jpg"></a> 
+<a href="link.html"><img src="contact.jpg"></a> 
+</hr> 
+</nav> 
+<article>Welcome to Home Page<br> 
+</article> 
+We are expert in Gardening. 
+</article> 
+<aside> 
+<b>what does<i>mean?</i></b> 
+run into an unfamiliar gardening term? 
+</aside> 
+<footer> 
+<hr style="height:5px"> 
+copyright &copy; 2012 
+</footer> 
+</body> 
+</html> 
+
